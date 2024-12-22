@@ -1,0 +1,3 @@
+[submodule "mysh"]
+	path = mysh
+	url = git@github.com:LucFilia0/mysh.git
